@@ -1,0 +1,4 @@
+\> cd </Users/hchoi/Desktop/Gratuity>
+\> git init
+\> git add .
+\> git commit -m "Initial commit"
